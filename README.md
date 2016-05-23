@@ -1,2 +1,3 @@
 # hello-world
-my very first repository
+trying to learn how to code with freecodecamp
+this is the first step!
